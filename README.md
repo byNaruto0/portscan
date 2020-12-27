@@ -1,7 +1,6 @@
 # PortscanToolByNaruto
-apt-get uptade
 
-apt-get install python3
+apt install python3
 
 git clone https://github.com/byNaruto0/portscan
 
