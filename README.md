@@ -1,4 +1,6 @@
 # PortscanToolByNaruto
+apt-get uptade
+
 git clone https://github.com/byNaruto0/portscan
 
 cd portscan
