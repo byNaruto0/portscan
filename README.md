@@ -1,6 +1,6 @@
 # Portscan
-git clone https://github.com/byNaruto0/portscantoolnaruto
+git clone https://github.com/byNaruto0/portscan
 
-cd Portscan
+cd portscan
 
 python3 Portscan.py
