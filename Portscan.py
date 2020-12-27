@@ -2,8 +2,8 @@
 
 import os
 
-os.system("apt-get install nmap")
-os.system("apt-get install figlet")
+os.system("apt install nmap")
+os.system("apt install figlet")
 os.system("clear")
 os.system("figlet PORT SCAN BY NARUTO")
 print("""
